@@ -1,2 +1,4 @@
-# barbearia-cuiaba
-Landing page e sistema de agendamento da Barbearia Cuiabá, com integração preparada para WhatsApp e Google Calendar.
+# Barbearia Cuiabá
+Landing page e sistema de agendamento.
+
+Próximos passos: interface, PostgreSQL, WhatsApp e Google Calendar.
